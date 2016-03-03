@@ -23,6 +23,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Twitter Bootstrap for CSS styling
 gem 'bootstrap-sass'
 
+# Authentication Gem
+gem 'devise'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
