@@ -16,5 +16,6 @@
 !/log/.keep
 /tmp
 
-# Ignore Mac file 
+# Ignore Mac file
 .DS_Store
+/public/system/*

@@ -32,6 +32,9 @@ gem 'paperclip'
 # Allows for image storage on Amazon S3
 gem 'aws-sdk', '< 2.0'
 
+# Allows for Grid effects
+gem 'masonry-rails'
+
 # Use ActiveModel has_secure_password
 #gem 'bcrypt', '~> 3.1.7'
 
