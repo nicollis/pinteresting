@@ -35,6 +35,10 @@ gem 'aws-sdk', '< 2.0'
 # Allows for Grid effects
 gem 'masonry-rails'
 
+
+gem 'will_paginate'
+gem 'will_paginate-bootstrap'
+
 # Use ActiveModel has_secure_password
 #gem 'bcrypt', '~> 3.1.7'
 
