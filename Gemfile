@@ -29,6 +29,9 @@ gem 'devise'
 # Image Upload Gem
 gem 'paperclip'
 
+# Allows for image storage on Amazon S3
+gem 'aws-sdk'
+
 # Use ActiveModel has_secure_password
 #gem 'bcrypt', '~> 3.1.7'
 
