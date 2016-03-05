@@ -30,7 +30,7 @@ gem 'devise'
 gem 'paperclip'
 
 # Allows for image storage on Amazon S3
-gem 'aws-sdk'
+gem 'aws-sdk', '< 2.0'
 
 # Use ActiveModel has_secure_password
 #gem 'bcrypt', '~> 3.1.7'
